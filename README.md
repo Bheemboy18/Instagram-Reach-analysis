@@ -2,13 +2,6 @@
 
 **Instagram Reach Analysis** is a team project focused on identifying growth metrics and actionable insights from Instagram account data.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [File Structure](#file-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-
 ## Project Overview
 
 **Purpose:**  
